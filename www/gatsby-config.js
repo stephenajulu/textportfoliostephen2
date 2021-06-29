@@ -1,22 +1,22 @@
 require("dotenv").config();
 
 const siteMetadata = {
-  title: `Trong Nguyen's Desk`,
-  name: `Trong Nguyen`,
+  title: `Stephen Ajulu`,
+  name: `Stephen Ajulu`,
   siteUrl: `https://trongnguyen.co`,
   description: `Product Designer who's learning to write and express thoughts`,
   hero: {
-    heading: `Hi, I’m Trong, product designer at Carousell.`,
+    heading: `Hi, I’m Stephen Ajulu, web developer, designer, ethical hacker & content creator.`,
     writingHeading: `Writing is designing.`,
     maxWidth: 800,
   },
   social: [
     {
-      url: `https://twitter.com/trongtnt92`,
+      url: `https://twitter.com/stephenajulu`,
     },
     {
       name: 'medium',
-      url: `https://medium.com/@trongtnt92`,
+      url: `https://stephenajulu.medium.com/`,
     },
   ],
 };
@@ -41,8 +41,8 @@ const plugins = [
   {
     resolve: `gatsby-plugin-manifest`,
     options: {
-      name: `Trong Nguyen's Desk`,
-      short_name: `Trong`,
+      name: `Stephen Ajulu`,
+      short_name: `Ajulu`,
       start_url: `/`,
       background_color: `#fff`,
       theme_color: `#fff`,
