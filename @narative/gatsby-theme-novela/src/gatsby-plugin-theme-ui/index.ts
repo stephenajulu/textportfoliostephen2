@@ -14,7 +14,7 @@ const breakpoints = [
 ];
 
 const fonts = {
-  title: "'Poppins', 'Helvetica Neue', 'Arial', sans-serif",
+  title: "'Playfair Display', 'Helvetica Neue', 'Arial', sans-serif",
   body:
     "'Libre Baskerville', Georgia, Serif",
   monospace: `"Operator Mono", Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace`,
